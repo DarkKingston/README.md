@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-As a passionate developer and 7 years of experience as a manager of some web-projects I have knowledge in UI/UX design, HTML, CSS, JavaScript, React, TypeScript, NodeJS, NextJS, NestJs, Git, Docker, Jira, Confluence, UiPath, ServiceStudio, PowerBI, PHP, Java. I am familiar with Agile Software Development and Scrum.
+As a passionate developer and 3 years of experience as a manager of some web-projects I have knowledge  HTML, CSS, JavaScript, React, TypeScript, NodeJS, NextJS, NestJs, Git, Docker, Jira, Confluence, UiPath, ServiceStudio, PowerBI, PHP, SQL. I am familiar with Agile Software Development and Scrum
 
 *   🌍  I'm based in Chisianu, Moldova
 *   🖥️  See my portfolio at [MyPortfolio](http://pasandor.com)
